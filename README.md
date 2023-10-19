@@ -15,3 +15,15 @@ This repository contains programming questions based on arrays.
 13) Palindrome Array
 14) Minimum swaps and K together
 15) Unique number of occurance in a array
+16) Common Element in 3 Sorted Arrays
+17) First Repeating Element
+18) First Non Repeating Element
+19) Check Subarray with 0 Sum
+20) Minimum Number of Platforms
+21) Majority Element
+22) Array Subset
+23) Minimize the Maximum Height
+24) Count Subarrays with equal 0 and 1
+25) Largest Subarray with 0 and 1
+26) Kadane Algorithm
+27) Maximum Circular Subarray Sum
